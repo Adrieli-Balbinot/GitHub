@@ -1,7 +1,5 @@
 # Comandos Git Hub
 
-![](head-gif.gif)
-
 ## 10- O que significa o git pull?
 #### É usado para buscar e baixar conteúdo de repositórios remotos e atualizar o repositório local
 
