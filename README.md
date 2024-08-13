@@ -33,7 +33,7 @@
 
 
 
-# head-spinning-HTML+CSS+GSAP
+# Outras informações: 
 ## git add . -> adicionar na stage 
 ## git commit -m "Alteracoes" -> Salva no repositorio local 
 ## git push -> sobre para o github 
