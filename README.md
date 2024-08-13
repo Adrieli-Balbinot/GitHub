@@ -30,3 +30,14 @@
 ## 21- Como fazer um Pull-Request?
 
 ## 22- Como adicionar Reviewers em seu repositório:
+
+
+
+# head-spinning-HTML+CSS+GSAP
+## git add . -> adicionar na stage 
+## git commit -m "Alteracoes" -> Salva no repositorio local 
+## git push -> sobre para o github 
+## git status -> verifica o status 
+## git pull -> atualiza repositorio local 
+## git pull (siginificado) -> significa basicamente dois comando git fetch e git merge. 
+## git log -> acessa o historico dos commits
