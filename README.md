@@ -31,8 +31,6 @@
 
 ## 22- Como adicionar Reviewers em seu repositório:
 
-
-
 # Outras informações: 
 ## git add . -> adicionar na stage 
 ## git commit -m "Alteracoes" -> Salva no repositorio local 
